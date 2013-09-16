@@ -1,1 +1,4 @@
 check
+
+image:workflow.png[]
+, workflow
