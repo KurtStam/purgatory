@@ -3,5 +3,20 @@
     "info": {
         "title": "KurtsAPI",
         "description": "Tesing"
+    },
+    "paths": {
+        "/mydir": {
+            "get": {}
+        }
+    },
+    "definitions": {
+        "user": {
+            "properties": {
+                "name": {},
+                "age": {
+                    "type": "integer"
+                }
+            }
+        }
     }
 }
